@@ -1,0 +1,6 @@
+{
+  "name": "Bloch Sphere Quantum Visualizer",
+  "description": "Interactive 3D Bloch sphere for drawing polar quantum state vectors and visualizing unitary quantum gate transformations, superposition, and projective measurements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
